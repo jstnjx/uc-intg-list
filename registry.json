@@ -1264,7 +1264,11 @@
       "name": "Meir Miyara",
       "description": "",
       "homepage": "https://www.github.com/mase1981",
-      "sponsorship_links": {}
+      "sponsorship_links": {
+        "github": "mase1981",
+        "buy_me_a_coffee": "meirmiyara",
+        "paypal": "mmiyara"
+      }
     },
     {
       "name": "jsoutter",
