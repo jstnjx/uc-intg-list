@@ -188,6 +188,7 @@
       "driver_id": "intg_manager_driver",
       "min_compatible_version": "1.6.6",
       "bootstrapper_driver_id": "intg_bootstrapper_driver",
+      "asset_pattern": "uc-intg-manager.*\\.tar\\.gz$",
       "bootstrapper_asset_pattern": "uc-intg-bootstrapper.*\\.tar\\.gz"
     },
     {
