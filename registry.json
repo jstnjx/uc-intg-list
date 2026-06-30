@@ -717,6 +717,19 @@
       "driver_id": "vidaa"
     },
     {
+      "id": "uc-intg-whisker",
+      "name": "Whisker Little Robot",
+      "description": "Control your whisker Little Robot Devices",
+      "author": "Meir Miyara",
+      "repository": "https://github.com/mase1981/uc-intg-whisker",
+      "categories": ["sensor", "remote"],
+      "features": ["remote", "sensor", "select"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "driver_id": "whisker"
+    },
+    {
       "id": "uc-intg-lyngdorf",
       "name": "Lyngdorf",
       "description": "Lyngdorf processor/amplifier integration",
