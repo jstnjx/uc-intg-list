@@ -718,8 +718,8 @@
     },
     {
       "id": "uc-intg-whisker",
-      "name": "Whisker Little Robot",
-      "description": "Control your whisker Little Robot Devices",
+      "name": "Whisker Litter Robot",
+      "description": "Control your Whisker Litter Robot Devices",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-whisker",
       "categories": ["sensor", "remote"],
