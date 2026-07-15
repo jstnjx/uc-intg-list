@@ -1223,7 +1223,7 @@
       "supports_backup": false,
       "driver_id": "acmeda_pulse"
     },
-        {
+    {
       "id": "uc-dashboard",
       "name": "UC Dashboard",
       "description": "UC Dashboard Integration for Unfolded Circle Remotes",
