@@ -1223,6 +1223,19 @@
       "supports_backup": false,
       "driver_id": "acmeda_pulse"
     },
+        {
+      "id": "uc-dashboard",
+      "name": "UC Dashboard",
+      "description": "UC Dashboard Integration for Unfolded Circle Remotes",
+      "author": "jstnjx",
+      "repository": "https://github.com/jstnjx/uc-dashboard",
+      "categories": ["home-automation", "utility"],
+      "features": [""],
+      "official": false,
+      "custom": true,
+      "supports_backup": false,
+      "driver_id": "uc_dashboard"
+    },
     {
       "id": "uc-intg-hass",
       "name": "Home Assistant",
@@ -1580,6 +1593,11 @@
       "name": "dgaust",
       "description": "",
       "homepage": "https://github.com/dgaust",
+      "sponsorship_links": {}
+    },    {
+      "name": "jstnjx",
+      "description": "",
+      "homepage": "https://github.com/jstnjx",
       "sponsorship_links": {}
     },
     {
