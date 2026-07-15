@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "version": "1.0.0",
   "description": "Community custom integrations registry for Unfolded Circle Remote. Official integrations delivered with firmware are read-only and not managed by this registry.",
-  "last_updated": "2026-07-04",
+  "last_updated": "2026-07-16",
   "integrations": [
     {
       "id": "uc-intg-broadlink",
